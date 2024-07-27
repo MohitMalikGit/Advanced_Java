@@ -4,7 +4,8 @@ import java.io.*;
 public class CharStreamExample {
 
 		public static void main(String[] args) {
-			// TODO Auto-generated method stub
+			//same as byter just use diff class 
+			// FileReader and FileWriter
 	
 		}
 
