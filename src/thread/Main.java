@@ -9,6 +9,7 @@ public class Main {
 			Thread th2 = new Thread(new Thread2());
 			th2.start();
 			System.out.println();
+			//cant predict the sequence 	
 		}
 	}
 
